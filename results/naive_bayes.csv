@@ -1,0 +1,4 @@
+model,input,accuracy
+GaussianNB,"pixels scaled to 0-1",0.5516
+MultinomialNB,"raw pixel values 0-255",0.8290
+BernoulliNB,"binarised (pixel > 0)",0.8349
