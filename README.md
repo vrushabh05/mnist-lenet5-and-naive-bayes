@@ -48,6 +48,13 @@ python make_chart.py         # rebuilds the charts from results/
 | `results/` | Training log, confusion matrix, Naive Bayes accuracies |
 | `make_chart.py` | Builds the charts |
 
+## Notebooks
+
+| Notebook | Contents |
+|---|---|
+| [`Assignment6_LeNet5_MNIST.ipynb`](notebooks/Assignment6_LeNet5_MNIST.ipynb) | Original LeNet-5 run: 10-epoch log, overlap check, confusion matrix, misclassified digits |
+| [`NaiveBayes_MNIST.ipynb`](notebooks/NaiveBayes_MNIST.ipynb) | Original Gaussian / Multinomial / Bernoulli Naive Bayes run |
+
 ## Stack
 
 `Python` `PyTorch` `scikit-learn` `NumPy` `matplotlib`
